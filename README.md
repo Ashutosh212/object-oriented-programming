@@ -30,7 +30,7 @@ This repo contains basic classes that demonstrate **key OOP features**. You can 
 
 Next to learn:
 1. Garbage Collection
-2. Different dunder method like (__repr__)
+2. Different dunder method like (\_\_repr\_\_)
    
 ---
 Clone this repo:
