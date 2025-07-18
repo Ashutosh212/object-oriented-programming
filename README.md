@@ -16,18 +16,22 @@ This repo contains basic classes that demonstrate **key OOP features**. You can 
 
 ## 🧠 Concepts Covered
 
-| Concept             | Covered via code? |
-|---------------------|------------------|
-|  Classes & Objects         | ✔️ |
-|  Inheritance (Single/Multiple) | ✔️ |
-|  `super()` usage            | ✔️ |
-|  Instance vs Class variables | ✔️ |
-|  `@classmethod` & `@staticmethod` | ✔️ |
-|  Encapsulation (`_protected`, `__private`) | ✔️ |
-|  Polymorphism (overriding) | ✔️ |
-|  Abstraction  | 🔄 *(coming soon)* |
-|  Real-world examples | 🔄 *(coming soon)* |
+| Concept             | 
+|---------------------|
+|  Classes & Objects         | 
+|  Inheritance (Single/Multiple) | 
+|  `super()` usage            | 
+|  Instance vs Class variables | 
+|  `@classmethod` & `@staticmethod` | 
+|  Encapsulation (`_protected`, `__private`) | 
+|  Polymorphism (overriding) | 
+|  Abstraction  | 
+|  Real-world examples |
 
+Next to learn:
+1. Garbage Collection
+2. Different dunder method like (__repr__)
+   
 ---
 Clone this repo:
    ```bash
