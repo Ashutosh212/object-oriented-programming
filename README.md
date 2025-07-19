@@ -1,20 +1,20 @@
-# 🧩 Object-Oriented Programming (OOP) Concepts – Practice & Reuse
+# Object-Oriented Programming (OOP) Concepts – Practice & Reuse
 
 Welcome to this repository, where I’m building a **comprehensive reference of OOP concepts** through simple, clear code examples. It’s designed for:
 
-- 📚 **Learning & practicing OOP**
-- 🔁 **Reusing class templates across projects**
-- 💼 **Brushing up before interviews**
+- **Learning & practicing OOP**
+- **Reusing class templates across projects**
+- **Brushing up before interviews**
 
 ---
 
-## 📌 What's Inside
+## What's Inside
 
 This repo contains basic classes that demonstrate **key OOP features**. You can easily **copy, modify, and experiment** with them to understand behavior across different scenarios.
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 | Concept             | 
 |---------------------|
